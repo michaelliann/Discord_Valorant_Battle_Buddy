@@ -1,6 +1,4 @@
 # Import libraries
-import discord
-import os
 from discord.ext import commands
 
 class brim_lineups(commands.Cog):

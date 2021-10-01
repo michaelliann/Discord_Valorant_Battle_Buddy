@@ -1,5 +1,4 @@
 # Import libraries
-import discord
 import os
 from discord.ext import commands
 from decouple import config
