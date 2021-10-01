@@ -46,7 +46,6 @@ class tips(commands.Cog):
                     "Omen's smokes last for 15 seconds.",
                     "When on a losing streak, take a break before playing again.",
                     "Play with your friends for more fun!",
-                    "Remember to call out information for your team."
                     ]
 
         tip = random.choice(tipsList)
