@@ -45,7 +45,8 @@ class tips(commands.Cog):
                     "Try to listen for Omen's teleport when he uses his from the shadows ultimate.",
                     "Omen's smokes last for 15 seconds.",
                     "When on a losing streak, take a break before playing again.",
-                    "Play with your friends for more fun!"
+                    "Play with your friends for more fun!",
+                    "Remember to call out information for your team."
                     ]
 
         tip = random.choice(tipsList)
